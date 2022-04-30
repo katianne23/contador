@@ -1,5 +1,5 @@
 # contador
-Criação de um contato que realizar Contagem regressiva
+Criação de um contador que realizar Contagem regressiva
 Com o armazenamento de dados, mesmo fechando a página do navegador, 
 o cronômetro continuará com a contagem rodando.
 
